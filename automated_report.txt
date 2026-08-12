@@ -1,0 +1,22 @@
+DATA CLEANING & REPORTING AUTOMATION REPORT
+==================================================
+
+Original rows: 20
+Duplicate rows removed: 0
+Rows after cleaning: 20
+Missing/invalid salary values handled: 2
+Missing email values handled: 1
+Invalid/missing dates handled: 2
+Overall average salary: 59300.00
+
+DEPARTMENT SUMMARY
+--------------------------------------------------
+Department  EmployeeCount  AverageSalary  TotalSalary
+        Hr              6       58833.33     353000.0
+        It              8       62750.00     502000.0
+     Sales              6       55166.67     331000.0
+
+Files generated automatically:
+- cleaned_employee_data.csv
+- automated_report.txt
+- department_summary.png

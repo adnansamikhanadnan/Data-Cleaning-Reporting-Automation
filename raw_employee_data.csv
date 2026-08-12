@@ -1,0 +1,21 @@
+EmployeeID,Name,Email,City,Department,Salary,JoinDate
+1, Alice ,alice@example.com,Pune,IT,50000,2026-01-05
+2,Bob,bob@example.com,Mumbai,it,55000,05/01/2026
+3,CHARLIE,charlie@example.com,pune,Sales,48000,2026/01/07
+4,Diana,diana@example.com,Nashik,HR,,2026-01-08
+5,Evan,evan@example.com,Mumbai ,sales,62000,2026-01-09
+6,Fiona,fiona@example.com,Pune,IT,70000,2026-01-10
+7,George,george@example.com,Kolhapur,HR,58000,2026-01-11
+8,Hannah,hannah@example.com,Nashik,IT,65000,2026-01-12
+9,Ian,ian@example.com,Pune,Sales,52000,2026-01-13
+10,Jack,jack@example.com,Mumbai,HR,60000,2026-01-14
+11,Alice,alice@example.com,Pune,IT,50000,2026-01-05
+12,Kiran,kiran@example.com,Kolhapur,IT,71000,2026-01-16
+13,Liam,liam@example.com,Pune,it,68000,2026-01-17
+14,Maya,maya@example.com,Mumbai,Sales,59000,2026-01-18
+15,Noah,noah@example.com,Nashik,HR,invalid,2026-01-19
+16,Olivia,,Pune,Sales,54000,2026-01-20
+17,Paul,paul@example.com,Mumbai,HR,61000,2026-01-21
+18,Quinn,quinn@example.com,Kolhapur,IT,73000,2026-01-22
+19,Riya,riya@example.com,Pune,Sales,56000,2026-01-23
+20,Sam,sam@example.com,Nashik,HR,57000,2026-01-24

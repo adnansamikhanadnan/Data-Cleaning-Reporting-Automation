@@ -144,7 +144,7 @@ This project demonstrates practical **Data Analyst / Python Automation** skills 
 
 ## 👨‍💻 Author
 
-**Adnan Hai**  
+**Adnan Sami**  
 B.Tech — Artificial Intelligence & Data Science
 
 **Focus Areas:** Data Analytics • Python • Machine Learning • Artificial Intelligence • Business Intelligence
